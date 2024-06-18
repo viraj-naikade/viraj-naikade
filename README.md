@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @viraj-naikade
 - 👀 I’m interested in A.I and machine larning
 - 🌱 I’m currently learning python 
-- 📫 reach me - naikad32@gmail.com
+- 📫 reach me - naikade32@gmail.com
 
 
 <!---
